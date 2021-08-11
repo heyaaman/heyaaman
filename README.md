@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... no one
 - 💬 Ask me about ...I'm 17yo
 - 📫 How to reach me: ...instaram = @heyaaman
-- 😄 Pronouns: ... huh
+- 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I haven't learned python , but still i know a lil bit!
 -->
