@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...instaram = @heyaaman!
 
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I haven't learned python , but still i know a lil bit! (https://user-images.githubusercontent.com/85990282/129016999-f81edd72-f7d0-41ad-a82d-58b5b9614b5e.jpg)
+- ⚡ Fun fact: ... I haven't learned python , but still i know a lil bit![photo_2021-07-17_16-00-01](https://user-images.githubusercontent.com/85990282/129016999-f81edd72-f7d0-41ad-a82d-58b5b9614b5e.jpg)
 
 
 -->
