@@ -1,9 +1,7 @@
 ### Hi there <!--
    ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
-- 🔭 I’m currently working on ...Python
 - 🌱 I’m currently learning ... School
-- 👯 I’m looking to collaborate on ... No where
-- 🤔 I’m looking for help with ... no one
+- 🤔 I’m looking for help with ... someone who is good at python 
 - 💬 Ask me about ...I'm 17yo
 - 📫 How to reach me: ...instaram = @heyaaman!
 
