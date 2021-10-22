@@ -18,10 +18,10 @@ I'm a school student, 17 yo and I'm from India , Kerala
 <details>
    <summary>Click me >~< </summary>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=light)](https://github.com/heyaaman)
+[![github stats](https://github-readme-stats.vercel.app/api?username=heyaaman&show_icons=true&theme=light)](https://github.com/heyaaman)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
 
 
 
