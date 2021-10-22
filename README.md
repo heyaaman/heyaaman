@@ -1,8 +1,27 @@
-### Hi there <!--
+<div align="center">
+    <img src="https://telegra.ph/file/511ad91d9b05f6f2b9d95.jpg">
+</div>
 
-<img src="https://telegra.ph/file/dafdbad42eb28f422192d.jpg">
+# Hello, it's Aaman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+
+I'm a school student, 17 yo and I'm from India , Kerala
+
+## 👩‍💻 Programming
+<details>
+   <summary>Click me >~< </summary>
+
+- **Languages learnt**: Python & SQL
+- **Currently maintaining**: [Kazuko](https://t.me/KazukoRobot) & [PTB](https://github.com/heyaaman/KazukoBot)
+</details>
+
+##  📊 **Github Stats**
+<details>
+   <summary>Click me >~< </summary>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=starry69&show_icons=true&theme=light)](https://github.com/heyaaman)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
 
 
 
