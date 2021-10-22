@@ -12,7 +12,6 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 - **Languages learnt**: Python & SQL
 - **Currently maintaining**: [Kazuko](https://t.me/KazukoRobot) & [PTB](https://github.com/heyaaman/KazukoBot)
-- **Find me on telegram**: [heyaaman](https://t.me/heyaaman)
 </details>
 
 ##  📊 **Github Stats**
@@ -24,7 +23,7 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
 
-
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
 
 
 
