@@ -1,5 +1,5 @@
 <div align="center">
-    <vid src="https://telegra.ph/file/cb591237ef7a5a7c9f56e.mp4">
+    <img src="https://telegra.ph/file/cb591237ef7a5a7c9f56e.mp4">
 </div>
 
 # Hello, it's Aaman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
