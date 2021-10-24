@@ -29,7 +29,7 @@ I'm a school student, 17 yo and I'm from India , Kerala
 ## Find me on
 
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
+[![Telegram](https://img.shields.io/badge/heyaaman-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
 
 
 
