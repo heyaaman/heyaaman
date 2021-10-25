@@ -6,6 +6,9 @@
 
 I'm a school student, 17 yo and I'm from India , Kerala
 
+|  <a href="https://t.me/heyaaman/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+
 ## 👩‍💻 Programming
 <details>
    <summary>Click me >~< </summary>
@@ -23,11 +26,6 @@ I'm a school student, 17 yo and I'm from India , Kerala
 ![Profile views](https://gpvc.arturio.dev/heyaaman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
-
-|       **[heyaaman](https://t.me/heyaaman/)**                                                                                |
-| <a href="https://github.com/heyaaman"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>  <a href="https://www.instagram.com/heyaaman/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
-
-
 
 <br>
 </details>
