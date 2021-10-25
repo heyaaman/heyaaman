@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ashzero2/ashzero2/main/heyaaman%20.svg" />
+  <img src="https://raw.githubusercontent.com/ashzero2/ashzero2/main/%20heyaaman.svg" />
 </h1>
 
 
