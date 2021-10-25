@@ -24,6 +24,11 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
 
+|       **[heyaaman](https://t.me/heyaaman/)**                                                                                |
+| <a href="https://github.com/heyaaman"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>  <a href="https://www.instagram.com/heyaaman/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
+
+
+
 <br>
 </details>
 
