@@ -1,19 +1,13 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ashzero2/ashzero2/main/Its%20heyaaman.svg" />
-</h1>
+# Hello, it's Aaman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
+I'm a school student, 17 yo and I'm from India , Kerala
 
 
 <div align="center">
     <img src="https://telegra.ph/file/5e082391f1066b52242ac.jpg">
 </div>
 
-# Hello, it's Aaman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
-I'm a school student, 17 yo and I'm from India , Kerala
-
-|  <a href="https://t.me/heyaaman/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 👩‍💻 Programming
 <details>
@@ -44,4 +38,6 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 ![Tweer](https://img.shields.io/twitter/url?label=Tweer&style=social&url=https%3A%2F%2Ftwitter.com%2FheyaamanX)
 
+|  <a href="https://t.me/heyaaman/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
 -->
