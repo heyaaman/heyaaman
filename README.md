@@ -20,6 +20,7 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=heyaaman&show_icons=true&theme=light)](https://github.com/heyaaman)
 
+![Profile views](https://gpvc.arturio.dev/heyaaman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
 
@@ -28,10 +29,11 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 ## Find me on
 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/heyaamam/)
 
 [![Telegram](https://img.shields.io/badge/heyaaman-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
 
-
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](heyaaman:heyaaman2004@gmail.com)
 
 
 
