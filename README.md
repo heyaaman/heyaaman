@@ -35,6 +35,6 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](heyaaman:heyaaman2004@gmail.com)
 
-
+[![Tweer](https://img.shields.io/twitter/url?color=blue&label=Tweer&style=social)](https://twitter.com/heyaamanX)
 
 -->
