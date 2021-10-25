@@ -27,11 +27,11 @@ I'm a school student, 17 yo and I'm from India , Kerala
 <br>
 </details>
 
-## Find me on
+## Get in touch with me vai
 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/heyaamam/)
 
-[![Telegram](https://img.shields.io/badge/heyaaman-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
+[![Telegram](https://img.shields.io/badge/Telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](heyaaman:heyaaman2004@gmail.com)
 
