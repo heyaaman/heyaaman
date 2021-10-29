@@ -32,7 +32,7 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 ## Get in touch with me vai
 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/heyaamam/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/heyaaman/)
 
 [![Telegram](https://img.shields.io/badge/Telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
 
