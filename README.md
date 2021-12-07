@@ -1,4 +1,4 @@
-# Hello, it's Aaman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+# Hello, it's Aaman! <img src="./etc/Kenpurple.gif" width="40px">
 
 I'm a school student, 17 yo and I'm from India , Kerala
 
