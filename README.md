@@ -1,4 +1,4 @@
-# Hello, it's Aaman! <img src="./etc/Kenpurple.gif" width="40px">
+# Hello, it's Aaman!
 
 I'm a school student, 17 yo and I'm from India , Kerala
 
