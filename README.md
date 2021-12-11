@@ -30,6 +30,9 @@ I'm a school student, 17 yo and I'm from India , Kerala
 <br>
 </details>
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=heyaaman)
+</details
+
 ## Get in touch with me vai
 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/heyaaman/)
