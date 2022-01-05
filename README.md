@@ -23,7 +23,7 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=heyaaman&show_icons=true&theme=light)](https://github.com/heyaaman)
 
-| [![Profile views](https://komarev.com/ghpvc/?username=heyaaman&label=Profile%20views)](https://github.com/heyaaman)
+| [![Profile views](https://komarev.com/ghpvc/?username=heyaaman&label=Profile%20views 800)](https://github.com/heyaaman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
 
