@@ -23,7 +23,7 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=heyaaman&show_icons=true&theme=light)](https://github.com/heyaaman)
 
-| [![Profile views](https://komarev.com/ghpvc/?username=heyaaman&label=Profile%20views 800)](https://github.com/heyaaman)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaaman&layout=compact&langs_count=99)
 
@@ -37,9 +37,9 @@ I'm a school student, 17 yo and I'm from India , Kerala
 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/heyaaman/)
 
-[![Telegram](https://img.shields.io/badge/Telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/heyaaman)
+<a href="https://telegram.dog/heyaaman" class="padded"><img align="left" alt="heyaaman" width="28px" src="./res/telegram.png" /></a> 
 
-![Tweer](https://img.shields.io/twitter/url?label=Tweer&style=social&url=https%3A%2F%2Ftwitter.com%2FheyaamanX)
+<a href="https://twitter.com/heyaamanX" class="padded"><img align="left" alt="heyaaman" width="28px" src="./res/twitter.png" /></a> 
 
 |  <a href="https://t.me/heyaaman/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
