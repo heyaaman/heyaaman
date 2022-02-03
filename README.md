@@ -3,11 +3,6 @@
 I'm a school student, 17 yo and I'm from India , Kerala
 
 
-<div align="center">
-    <img src="https://telegra.ph/file/5e082391f1066b52242ac.jpg">
-</div>
-
-
 
 ## 👩‍💻 Programming
 <details>
