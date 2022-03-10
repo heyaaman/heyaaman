@@ -1,6 +1,6 @@
 # Hello, it's Aaman!
 
-I'm a school student, 17 yo and I'm from India , Kerala
+17 yo and I'm from India, Kerala
 
 
 
