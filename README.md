@@ -1,9 +1,5 @@
 # Hello, it's Aaman!
 
-17 yo and I'm from India, Kerala
-
-
-
 ## 👩‍💻 Programming
 <details>
    <summary>Click me >~< </summary>
