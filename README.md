@@ -1,4 +1,4 @@
-# Hello, it's Aaman!
+# Hello
 
 ## 👩‍💻 Programming
 <details>
